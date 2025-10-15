@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+playwright-report/
+test-results/
+blob-report/
+trace.zip
+overleaf_state.json
+login_failed.png
+.env
+node_modules/
+.vercel/
